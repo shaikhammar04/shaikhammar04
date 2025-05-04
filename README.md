@@ -2,6 +2,7 @@
 - 👀 I’m interested in data science and machine learning 
 - 🌱 I’m currently learning data science 
 - 💞️ I’m looking to collaborate on ds/ml projects
+- you can contact me through email:connect.ammarshaikh@gmail.com 
   
 
 <!---
